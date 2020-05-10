@@ -1,4 +1,4 @@
-module github.com/davidescus
+module github.com/davidescus/simple-client-api
 
 go 1.13
 
